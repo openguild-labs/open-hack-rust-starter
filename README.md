@@ -9,6 +9,7 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
 | Emoji | Name | Github Username | Occupations |
+|------|----|-----------------|----------------|
 | 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
 
 ## Learn more about OpenGuild
