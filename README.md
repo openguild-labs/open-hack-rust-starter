@@ -39,6 +39,8 @@ Add your information to the below list to officially participate in the workshop
 
 ![image](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7fa2f01a-b523-4208-92db-d8af7a274d98)
 
+<img width="683" alt="Screenshot 2024-04-19 at 16 20 00" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/138d1d07-5c0f-4fc3-b73d-8eafae3c692d">
+
 - Step 3: `Clone` the forked repository to your local device using the below command
 
 ```
