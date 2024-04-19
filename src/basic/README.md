@@ -1,15 +1,19 @@
-# Basic Challenges
+# Step 3: Basic Challenges
 
-After finishing all the below exercises, please follow these steps below to submit to the repository
+After finishing all the below exercises, please follow these steps below to submit to the repository.
 
-- Step 1: `Commit` your code and push to the forked Github repository
+![image](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/a226bf2f-ba01-4e00-99e3-bef7aecee1d7)
+
+- Step 1: Your solution must be added under the `answers` folder and register `github_xxxxxxx.rs` in the `answers/mod.rs` file.
+
+- Step 2: `Commit` your code and push to the forked Github repository
 
 ```
 git add .
 git commit -m "Finish Basic Challenge"
 ```
 
-- Step 2: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Basic Challenge`
+- Step 3: Create a `Pull Request` to merge your changes to this repository and name your PR as `Your name | Basic Challenge`
 
 <img width="1166" alt="Screenshot 2024-04-19 at 16 23 45" src="https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/7554ca7d-da68-4a23-893a-4f2c11a78d37">
 
@@ -19,9 +23,9 @@ git commit -m "Finish Basic Challenge"
 
 ### Submission Guidelines
 
-- [x] Add your solution file `github-username.rs` to `answers/1-hello-world`
+- [x] Add your solution file `github_xxxxxxx.rs` under the folder `answers/hello_world` and register in the `answers/hello_world/mod.rs`
 
-For example, if my Github username is `gavinwood`, my solution file will be under the soltuion folder as `answers/1-hello-world/gavinwood.rs`
+For example, if my Github username is `gavinwood`, my solution file will be under the soltuion folder as `answers/hello_world/github_gavinwood.rs`
 
 ### Main content
 
@@ -31,9 +35,9 @@ Go to `1-hello-world.rs`, add a code to print "Hello World"
 
 ### Submission Guidelines
 
-- [x] Add your solution file `github-username.rs` to `answers/2-two-sum`
+- [x] Add your solution file `github_xxxxxxx.rs` under the folder `answers/two_sum` and register in the `answers/two_sum/mod.rs`
 
-For example, if my Github username is `gavinwood`, my solution file will be under the soltuion folder as `answers/2-two-sum/gavinwood.rs`
+For example, if my Github username is `gavinwood`, my solution file will be under the soltuion folder as `answers/two_sum/github_gavinwood.rs`
 
 ### Main content
 
