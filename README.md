@@ -186,6 +186,7 @@ $ rustup self uninstall
 ---
 ## Mision 3: Hands-on experience with Rust exercises
 [Please read the instruction for this section here.](https://github.com/openguild-labs/open-hack-rust-starter/tree/main/src/basic)
+
 ---
 ## Mision 4: One Billion Row Challenge
 [Please read the instruction for this section here.](https://github.com/openguild-labs/open-hack-rust-starter/tree/main/src/advanced)
