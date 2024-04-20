@@ -13,6 +13,7 @@ Add your information to the below list to officially participate in the workshop
 | 🦀    | Phu Sy | [phusy2001](https://github.com/phusy2001) | Developer |
 | 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | DevRel Lead Polkadot SEA |
 | 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
+| 🦀    | Dat Nguyen| [hnimtadd](https://github.com/hnimtadd) | Software engineer|
 | 🦀    | Phap Luong| [phapdev](https://github.com/phapdev)           | Student                  |
 | 🦀    | Lucas | [Lucas](https://github.com/nvtuanqti212) | Backend Engineer |
 | 🦀    | Nguyen Ngoc Phu | [ngyngcphu](https://github.com/ngyngcphu) | Student |
