@@ -4,8 +4,14 @@ pub struct Solution;
 
 impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
-        // Remove the below code and add your answer
-        unimplemented!()
+        for i in 0..nums.len() {
+            for j in (i + 1)..nums.len() {
+                if nums[j] == target - nums[i] {
+                    return vec![i as i32, j as i32] as Vec<i32>;
+                }
+            }
+        }
+        vec![]
     }
 }
 
