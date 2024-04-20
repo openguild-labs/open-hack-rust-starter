@@ -4,7 +4,7 @@ use std::fs::File;
 use std::io::BufReader;
 
 use super::solutions;
-use super::utils::timeit;
+use super::utils::{get_time, timeit};
 
 #[allow(dead_code)]
 fn main_template(
@@ -56,8 +56,25 @@ fn benchmark_template() {
 }
 
 #[test]
-fn benchmark_github_xxxxxx() {
-    timeit("github_xxxxxx", || {
-        main_template(solutions::github_xxxxxxx::github_xxxxxx_solution)
+fn benchmark_github_anhpham() {
+    timeit("github_anhpham", || {
+        main_template(solutions::github_anhpham::github_anhpham_solution)
     });
+}
+
+#[test]
+fn compare_time() -> Result<(), String> {
+    let time_template_u64 = get_time("template", || {
+        main_template(solutions::template::template_solution)
+    });
+
+    let time_github_anhpham_u64 = get_time("github_anhpham", || {
+        main_template(solutions::github_anhpham::github_anhpham_solution)
+    });
+
+    if time_template_u64 >= time_github_anhpham_u64 {
+        Ok(())
+    } else {
+        Err(format!("Template solution is not faster"))
+    }
 }
