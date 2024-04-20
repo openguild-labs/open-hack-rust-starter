@@ -11,7 +11,7 @@ Add your information to the below list to officially participate in the workshop
 | Emoji | Name      | Github Username                                 | Occupations              |
 | ----- | --------- | ----------------------------------------------- | ------------------------ |
 | 🦀    | Phu Sy | [phusy2001](https://github.com/phusy2001) | Developer |
-| 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | DevRel Lead Polkadot SEA |
+| 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | N/A |
 | 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
 | 🦀    | Dat Nguyen| [hnimtadd](https://github.com/hnimtadd) | Software engineer|
 | 🦀    | Phap Luong| [phapdev](https://github.com/phapdev)           | Student                  |
