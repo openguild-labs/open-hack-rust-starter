@@ -58,6 +58,6 @@ fn benchmark_template() {
 #[test]
 fn benchmark_github_xxxxxx() {
     timeit("github_xxxxxx", || {
-        main_template(solutions::github_xxxxxxx::github_xxxxxx_solution)
+        main_template(solutions::github_lamdanghoang::github_xxxxxx_solution)
     });
 }

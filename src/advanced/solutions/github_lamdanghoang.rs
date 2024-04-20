@@ -6,7 +6,7 @@ use std::{
 
 use crate::advanced::model::WeatherData;
 
-pub fn github_xxxxxx_solution(
+pub fn github_lamdanghoang_solution(
     reader: BufReader<File>,
     station_data: &mut HashMap<String, WeatherData>,
 ) {
