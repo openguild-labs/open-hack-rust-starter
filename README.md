@@ -8,9 +8,13 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name     | Github Username                                       | Occupations              |
-| ----- | -------- | ----------------------------------------------------- | ------------------------ |
+| Emoji | Name      | Github Username                                 | Occupations              |
+| ----- | --------- | ----------------------------------------------- | ------------------------ |
 | 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | DevRel Lead Polkadot SEA |
+| 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
+| 🦀    | Nguyen Ngoc Phu | [ngyngcphu](https://github.com/ngyngcphu) | Student |
+| 🐷    | Huy Do    | [Huy-DNA](https://github.com/Huy-DNA) | Software engineer |
+| 🦀    | Hoang Lam | [lamdanghoang](https://github.com/lamdanghoang) | Student                  |
 
 ## Learn more about OpenGuild
 
