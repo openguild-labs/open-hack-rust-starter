@@ -8,9 +8,9 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name      | Github Username                                 | Occupations              |
-| ----- | --------- | ----------------------------------------------- | ------------------------ |
-| 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
+| Emoji | Name     | Github Username                                       | Occupations              |
+| ----- | -------- | ----------------------------------------------------- | ------------------------ |
+| 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | DevRel Lead Polkadot SEA |
 
 ## Learn more about OpenGuild
 
@@ -183,19 +183,25 @@ shell:
 ```console
 $ rustup self uninstall
 ```
+
 ---
+
 ## Mision 3: Hands-on experience with Rust exercises
+
 [Please read the instruction for this section here.](https://github.com/openguild-labs/open-hack-rust-starter/tree/main/src/basic)
 
 ---
+
 ## Mision 4: One Billion Row Challenge
+
 [Please read the instruction for this section here.](https://github.com/openguild-labs/open-hack-rust-starter/tree/main/src/advanced)
 
 # 🙌 How to contribute to the community?
+
 To submit a proposal, ideas, or any questions, please submit them here: [OpenGuild Discussion 💬](https://github.com/orgs/openguild-labs/discussions)
 View tickets and activities that you can contribute: [Community Activities 🖐️](https://github.com/orgs/openguild-labs/discussions/categories/activities)
 
-- **Help to grow the community:** Community growth is a collective effort. By actively engaging with and inviting fellow enthusiasts to join our community, you play a crucial role in expanding our network. Encourage discussions, share valuable insights, and foster a welcoming environment for newcomers. 
+- **Help to grow the community:** Community growth is a collective effort. By actively engaging with and inviting fellow enthusiasts to join our community, you play a crucial role in expanding our network. Encourage discussions, share valuable insights, and foster a welcoming environment for newcomers.
 
 - **Participate in workshops and events:** Be an active participant in our workshops and events. These sessions serve as valuable opportunities to learn, collaborate, and stay updated on the latest developments in the Polkadot ecosystem. Through participation, you not only enhance your knowledge but also contribute to the collaborative spirit of OpenGuild. Share your experiences, ask questions, and forge connections with like-minded individuals.
 
