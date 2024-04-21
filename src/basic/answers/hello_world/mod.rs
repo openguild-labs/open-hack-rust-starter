@@ -1,5 +1,5 @@
 mod github_lamdanghoang;
-mod github_chungquantin;
+// mod github_chungquantin;
 mod github_phapdev;
 mod github_phusy2001;
 mod github_HuyDNA;
