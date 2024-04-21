@@ -20,6 +20,7 @@ Add your information to the below list to officially participate in the workshop
 | 🐷    | Huy Do          | [Huy-DNA](https://github.com/Huy-DNA)                 | Software engineer        |
 | 🦀    | Hoang Lam       | [lamdanghoang](https://github.com/lamdanghoang)       | Student                  |
 | 🦀    | Tuong Nguyen    | [zrus](https://github.com/zrus)                       | Developer                |
+| 🦀    | Khiem Cong    | [congnghiakhiem](https://github.com/congnghiakhiem)                       | IT Researcher                |
 
 ## Learn more about OpenGuild
 
