@@ -1,6 +1,6 @@
 fn main() {
-    println!("Answer =>>> Hello World");
-    println!("Please insert your answer here");
+    println!("Answer =>>> ");
+    println!("Hello World");
 }
 
 #[test]

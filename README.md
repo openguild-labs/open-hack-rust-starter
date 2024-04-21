@@ -8,18 +8,18 @@ Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop par
 
 Add your information to the below list to officially participate in the workshop challenge (This is the first mission of the whole workshop)
 
-| Emoji | Name      | Github Username                                 | Occupations              |
-| ----- | --------- | ----------------------------------------------- | ------------------------ |
-| 🦀    | Phu Sy | [phusy2001](https://github.com/phusy2001) | Developer |
-| 🦀    | Anh Pham | [FucktheKingcode](https://github.com/FucktheKingcode) | N/A |
-| 🦀    | Tin Chung | [chungquantin](https://github.com/chungquantin) | DevRel Lead Polkadot SEA |
-| 🦀    | Dat Nguyen| [hnimtadd](https://github.com/hnimtadd) | Software engineer|
-| 🦀    | Phap Luong| [phapdev](https://github.com/phapdev)           | Student                  |
-| 🦀    | Lucas | [Lucas](https://github.com/nvtuanqti212) | Backend Engineer |
-| 🦀    | Nguyen Ngoc Phu | [ngyngcphu](https://github.com/ngyngcphu) | Student |
-| 🐷    | Huy Do    | [Huy-DNA](https://github.com/Huy-DNA) | Software engineer |
-| 🦀    | Hoang Lam | [lamdanghoang](https://github.com/lamdanghoang) | Student |
-| 🦀    | Tuong Nguyen | [zrus](https://github.com/zrus) | Developer |
+| Emoji | Name            | Github Username                                       | Occupations              |
+| ----- | --------------- | ----------------------------------------------------- | ------------------------ |
+| 🦀    | Phu Sy          | [phusy2001](https://github.com/phusy2001)             | Developer                |
+| 🦀    | Anh Pham        | [FucktheKingcode](https://github.com/FucktheKingcode) | Dev \*                   |
+| 🦀    | Tin Chung       | [chungquantin](https://github.com/chungquantin)       | DevRel Lead Polkadot SEA |
+| 🦀    | Dat Nguyen      | [hnimtadd](https://github.com/hnimtadd)               | Software engineer        |
+| 🦀    | Phap Luong      | [phapdev](https://github.com/phapdev)                 | Student                  |
+| 🦀    | Lucas           | [Lucas](https://github.com/nvtuanqti212)              | Backend Engineer         |
+| 🦀    | Nguyen Ngoc Phu | [ngyngcphu](https://github.com/ngyngcphu)             | Student                  |
+| 🐷    | Huy Do          | [Huy-DNA](https://github.com/Huy-DNA)                 | Software engineer        |
+| 🦀    | Hoang Lam       | [lamdanghoang](https://github.com/lamdanghoang)       | Student                  |
+| 🦀    | Tuong Nguyen    | [zrus](https://github.com/zrus)                       | Developer                |
 
 ## Learn more about OpenGuild
 
