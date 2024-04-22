@@ -63,6 +63,13 @@ fn benchmark_github_anhpham() {
 }
 
 #[test]
+fn benchmark_github_lamdanghoang() {
+    timeit("github_lamdanghoang", || {
+        main_template(solutions::github_lamdanghoang::github_lamdanghoang_solution)
+    });
+}
+
+#[test]
 fn compare_time() -> Result<(), String> {
     let time_template_u64 = get_time("template", || {
         main_template(solutions::template::template_solution)

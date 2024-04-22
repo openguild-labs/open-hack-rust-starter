@@ -1,3 +1,4 @@
+#[derive(Clone)]
 pub struct WeatherData {
     pub min: f64,
     pub max: f64,
