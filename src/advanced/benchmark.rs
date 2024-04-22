@@ -48,6 +48,25 @@ fn main_template(
     println!("{}", output);
 }
 
+#[allow(dead_code)]
+fn main_cnk(
+    f: fn(path: std::path::PathBuf) -> (),
+) {
+    use std::env;
+
+    // Get the current working director
+    let current_dir = env::current_dir().expect("Failed to get current directory");
+
+    // Construct the relative path to the file
+    let relative_path = "src/advanced/small_data.txt";
+
+    // Combine current directory with relative path
+    let file_path = current_dir.join(relative_path);
+
+    f(file_path);
+
+}
+
 #[test]
 fn benchmark_template() {
     timeit("template_code", || {
@@ -55,10 +74,17 @@ fn benchmark_template() {
     });
 }
 
+// #[test]
+// fn benchmark_github_anhpham() {
+//     timeit("github_anhpham", || {
+//         main_template(solutions::github_anhpham::github_anhpham_solution)
+//     });
+// }
+
 #[test]
-fn benchmark_github_anhpham() {
-    timeit("github_anhpham", || {
-        main_template(solutions::github_anhpham::github_anhpham_solution)
+fn benchmark_cnk() {
+    timeit("cnk", || {
+        main_cnk(solutions::github_congnghiakhiem::cnk_solution)
     });
 }
 
@@ -68,13 +94,25 @@ fn compare_time() -> Result<(), String> {
         main_template(solutions::template::template_solution)
     });
 
-    let time_github_anhpham_u64 = get_time("github_anhpham", || {
-        main_template(solutions::github_anhpham::github_anhpham_solution)
+    // let time_github_anhpham_u64 = get_time("github_anhpham", || {
+    //     main_template(solutions::github_anhpham::github_anhpham_solution)
+    // });
+
+    let time_cnk_u64 = get_time("cnk", || {
+        main_cnk(solutions::github_congnghiakhiem::cnk_solution)
     });
 
-    if time_template_u64 >= time_github_anhpham_u64 {
+    // if time_template_u64 >= time_github_anhpham_u64 {
+    //     Ok(())
+    // } else {
+    //     Err(format!("Template solution is not faster"))
+    // }
+
+    if time_template_u64 >= time_cnk_u64 {
+        println!("{}", time_cnk_u64);
         Ok(())
     } else {
         Err(format!("Template solution is not faster"))
     }
+
 }
