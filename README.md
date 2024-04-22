@@ -21,6 +21,7 @@ Add your information to the below list to officially participate in the workshop
 | 🦀    | Hoang Lam       | [lamdanghoang](https://github.com/lamdanghoang)       | Student                  |
 | 🦀    | Tuong Nguyen    | [zrus](https://github.com/zrus)                       | Developer                |
 | 🦀    | Khiem Cong    | [congnghiakhiem](https://github.com/congnghiakhiem)                       | IT Researcher                |
+| 🦀    | Anh Tuan        | [chauanhtuan185](https://github.com/chauanhtuan185) | Software Engineer          |
 
 ## Learn more about OpenGuild
 
