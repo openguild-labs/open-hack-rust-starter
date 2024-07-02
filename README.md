@@ -1,6 +1,6 @@
 # OpenHack Workshop - Rust Starter
 
-![image](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/3f07ca81-d5fa-4654-ad3d-74ed4ab05070)
+![Rust_Starter](https://github.com/openguild-labs/open-hack-rust-starter/assets/56880684/68ae8961-347d-4b6b-9eec-a2075e637b67)
 
 Repositoriy is made by the **OpenGuild Labs** to introduce OpenHack workshop participants about Rust programming language and help the participants to get familiar with the language.
 
