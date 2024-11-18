@@ -21,6 +21,7 @@ Add your information to the below list to officially participate in the workshop
 | 🦀    | Hoang Lam       | [lamdanghoang](https://github.com/lamdanghoang)       | Student                  |
 | 🦀    | Tuong Nguyen    | [zrus](https://github.com/zrus)                       | Developer                |
 | 🦀    | Khiem Cong    | [congnghiakhiem](https://github.com/congnghiakhiem)                       | IT Researcher                |
+| 🦀    | Kratist0s       | [kratist0s](https://https://github.com/Kratist0s)     | Member Polkadot Africa   |
 
 ## Learn more about OpenGuild
 
